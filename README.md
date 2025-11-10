@@ -60,10 +60,6 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch for your feature or fix.
 3. Submit a pull request detailing your changes.
 
-## 📞 Contact Information
-For inquiries, please reach out to:
-- **Email**: siddharth786s1@example.com  
-- **GitHub**: [siddharth786s1](https://github.com/siddharth786s1)
 
 ---
 
